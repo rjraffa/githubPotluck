@@ -1,0 +1,3 @@
+[submodule "ofxGestureRecognizer"]
+	path = ofxGestureRecognizer
+	url = git://github.com/rjraffa/ofxGestureRecognizer.git
